@@ -1,6 +1,6 @@
 # Deploy Github Action
 
-Deploy your app to [Hop](https://hop.io), using the Hop CLI.
+Deploy your app to [Hop](http://blog.adball.tech), using the Hop CLI.
 
 ## Inputs
 
